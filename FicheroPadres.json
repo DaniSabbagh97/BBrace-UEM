@@ -1,0 +1,279 @@
+[
+	{
+		"padre": {
+			"mail": "robersancar@gmail.com",
+			"listaBebes": [
+				{
+					"semanasGestacion": "",
+					"padreDni": "24254365D",
+					"listaEnfermerosDni": [
+						"57777777F"
+					],
+					"fechaNacimiento": "2019-05-24",
+					"idPulsera": "MWe9ZT8z",
+					"observaciones": "",
+					"nombre": "David"
+				}
+			],
+			"contrasenia": "h\/e+KQgppay2Q6Wfc2kd6g==",
+			"nombre": "Roberto Sánchez Carrillo",
+			"rutaFoto": null,
+			"dni": "24254365D",
+			"medicoAsociadoFamiliaDni": "65555555P"
+		}
+	},
+	{
+		"padre": {
+			"mail": "mateobclaudia@gmail.com",
+			"listaBebes": [
+				{
+					"semanasGestacion": "",
+					"padreDni": "33333333Y",
+					"listaEnfermerosDni": [
+						"68686868H",
+						"12345678Z"
+					],
+					"fechaNacimiento": "2019-11-05",
+					"idPulsera": "4rvMhuW6",
+					"observaciones": "",
+					"nombre": "Eva"
+				},
+				{
+					"semanasGestacion": "",
+					"padreDni": "33333333Y",
+					"listaEnfermerosDni": [
+						"68686868H",
+						"12345678Z"
+					],
+					"fechaNacimiento": "1500-01-01",
+					"idPulsera": "KvLBAhJ2",
+					"observaciones": "",
+					"nombre": "Gabriela"
+				}
+			],
+			"contrasenia": "h\/e+KQgppay2Q6Wfc2kd6g==",
+			"nombre": "Claudia Mateo Burillo",
+			"rutaFoto": null,
+			"dni": "33333333Y",
+			"medicoAsociadoFamiliaDni": "59595959O"
+		}
+	},
+	{
+		"padre": {
+			"mail": "frantomas@gmail.com",
+			"listaBebes": [
+				{
+					"semanasGestacion": "39",
+					"padreDni": "98532333S",
+					"listaEnfermerosDni": [
+						"44444444A"
+					],
+					"fechaNacimiento": "2020-08-12",
+					"idPulsera": "a9DH75bm",
+					"observaciones": "Problemas pulmonares",
+					"nombre": "Patricio"
+				}
+			],
+			"contrasenia": "h\/e+KQgppay2Q6Wfc2kd6g==",
+			"nombre": "Francisco Tomás Mateo",
+			"rutaFoto": null,
+			"dni": "98532333S",
+			"medicoAsociadoFamiliaDni": "33333333Q"
+		}
+	},
+	{
+		"padre": {
+			"mail": "evaml@gmail.com",
+			"listaBebes": [
+				{
+					"semanasGestacion": "",
+					"padreDni": "76895689E",
+					"listaEnfermerosDni": [
+						"57777777F"
+					],
+					"fechaNacimiento": "2019-05-24",
+					"idPulsera": "E3JJa959",
+					"observaciones": "",
+					"nombre": "Mateo"
+				},
+				{
+					"semanasGestacion": "",
+					"padreDni": "76895689E",
+					"listaEnfermerosDni": [
+						"57777777F"
+					],
+					"fechaNacimiento": "2019-08-20",
+					"idPulsera": "zH6gfzua",
+					"observaciones": "",
+					"nombre": "Jose Antonio"
+				}
+			],
+			"contrasenia": "h\/e+KQgppay2Q6Wfc2kd6g==",
+			"nombre": "Eva Martínez López",
+			"rutaFoto": "C:\\Users\\TastyTed\\Desktop\\coloring-adult-christmas-ball-ornaments-mandala-by-karpenyuk.jpg",
+			"dni": "76895689E",
+			"medicoAsociadoFamiliaDni": "65555555P"
+		}
+	},
+	{
+		"padre": {
+			"mail": "dantechella@gmail.com",
+			"listaBebes": [
+				{
+					"semanasGestacion": "",
+					"padreDni": "96895689E",
+					"listaEnfermerosDni": [
+						"44444444A"
+					],
+					"fechaNacimiento": "2019-05-24",
+					"idPulsera": "kM6Rxw9h",
+					"observaciones": "",
+					"nombre": "Marta"
+				},
+				{
+					"semanasGestacion": "",
+					"padreDni": "96895689E",
+					"listaEnfermerosDni": [
+						"44444444A"
+					],
+					"fechaNacimiento": "2019-08-20",
+					"idPulsera": "Wpwcpnja",
+					"observaciones": "",
+					"nombre": "Daniel"
+				}
+			],
+			"contrasenia": "h\/e+KQgppay2Q6Wfc2kd6g==",
+			"nombre": "Dante Chellara Hodrigez",
+			"rutaFoto": "C:\\Users\\Dani\\Desktop\\red_bayes_asiaa.png",
+			"dni": "96895689E",
+			"medicoAsociadoFamiliaDni": "33333333Q"
+		}
+	},
+	{
+		"padre": {
+			"mail": "martinita10@gmail.com",
+			"listaBebes": [
+				{
+					"semanasGestacion": "",
+					"padreDni": "22222222G",
+					"listaEnfermerosDni": [
+						"57777777F"
+					],
+					"fechaNacimiento": "2019-11-05",
+					"idPulsera": "UbtAuTJj",
+					"observaciones": "",
+					"nombre": "Javier"
+				},
+				{
+					"semanasGestacion": "42",
+					"padreDni": "22222222G",
+					"listaEnfermerosDni": [
+						"57777777F"
+					],
+					"fechaNacimiento": "2020-08-12",
+					"idPulsera": "i6U6bA4h",
+					"observaciones": "Cesarea",
+					"nombre": "Oliver"
+				}
+			],
+			"contrasenia": "h\/e+KQgppay2Q6Wfc2kd6g==",
+			"nombre": "Martina Gil Diez",
+			"rutaFoto": null,
+			"dni": "22222222G",
+			"medicoAsociadoFamiliaDni": "65555555P"
+		}
+	},
+	{
+		"padre": {
+			"mail": "danieltbelt@gmail.com",
+			"listaBebes": [
+				{
+					"semanasGestacion": "",
+					"padreDni": "54785879B",
+					"listaEnfermerosDni": [
+						"22222222C"
+					],
+					"fechaNacimiento": "2019-05-24",
+					"idPulsera": "a3Jn4xyW",
+					"observaciones": "",
+					"nombre": "Almudena"
+				}
+			],
+			"contrasenia": "h\/e+KQgppay2Q6Wfc2kd6g==",
+			"nombre": "Daniel Turín Belmont",
+			"rutaFoto": null,
+			"dni": "54785879B",
+			"medicoAsociadoFamiliaDni": "14514514N"
+		}
+	},
+	{
+		"padre": {
+			"mail": "crisaga@gmail.com",
+			"listaBebes": [
+				{
+					"semanasGestacion": "",
+					"padreDni": "86895689E",
+					"listaEnfermerosDni": [
+						"68686868H",
+						"12345678Z"
+					],
+					"fechaNacimiento": "2019-05-24",
+					"idPulsera": "R7yvuZSf",
+					"observaciones": "",
+					"nombre": "María"
+				},
+				{
+					"semanasGestacion": "",
+					"padreDni": "86895689E",
+					"listaEnfermerosDni": [
+						"68686868H",
+						"12345678Z"
+					],
+					"fechaNacimiento": "2019-08-20",
+					"idPulsera": "P5mZU3t9",
+					"observaciones": "",
+					"nombre": "Antonio"
+				}
+			],
+			"contrasenia": "h\/e+KQgppay2Q6Wfc2kd6g==",
+			"nombre": "Cristina Alegrías González",
+			"rutaFoto": null,
+			"dni": "86895689E",
+			"medicoAsociadoFamiliaDni": "59595959O"
+		}
+	},
+	{
+		"padre": {
+			"mail": "calvoPedro@gmail.com",
+			"listaBebes": [
+				{
+					"semanasGestacion": "",
+					"padreDni": "14514514U",
+					"listaEnfermerosDni": [
+						"44444444A"
+					],
+					"fechaNacimiento": "2019-11-05",
+					"idPulsera": "RDMgTiGe",
+					"observaciones": "",
+					"nombre": "Francisco"
+				},
+				{
+					"semanasGestacion": "",
+					"padreDni": "14514514U",
+					"listaEnfermerosDni": [
+						"44444444A"
+					],
+					"fechaNacimiento": "1500-01-01",
+					"idPulsera": "pXuxCKmP",
+					"observaciones": "",
+					"nombre": "Ana"
+				}
+			],
+			"contrasenia": "h\/e+KQgppay2Q6Wfc2kd6g==",
+			"nombre": "Pedro Martínez Calvo",
+			"rutaFoto": null,
+			"dni": "14514514U",
+			"medicoAsociadoFamiliaDni": "33333333Q"
+		}
+	}
+]

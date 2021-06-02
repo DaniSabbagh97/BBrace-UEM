@@ -1,0 +1,165 @@
+[
+	{
+		"notificacion": {
+			"isEmergencia": true,
+			"dniRemitente": "76895689E",
+			"fecha": "2021-01-15",
+			"registroMensajes": [],
+			"dniDestino": "57777777F",
+			"asunto": "Problemas salud Patricio",
+			"remitente": "Eva Martínez López",
+			"destino": "Fernando Caballero López",
+			"mensaje": "Hola Fernando, Patricio esta malo"
+		}
+	},
+	{
+		"notificacion": {
+			"isEmergencia": false,
+			"dniRemitente": "76895689E",
+			"fecha": "2021-01-15",
+			"registroMensajes": [],
+			"dniDestino": "57777777F",
+			"asunto": "Temperatura baja",
+			"remitente": "Eva Martínez López",
+			"destino": "Fernando Caballero López",
+			"mensaje": "Me sale algo de que la temperatura de mi bebé es baja ¿Que deberia hacer?"
+		}
+	},
+	{
+		"notificacion": {
+			"isEmergencia": false,
+			"dniRemitente": "76895689E",
+			"fecha": "2021-01-15",
+			"registroMensajes": [],
+			"dniDestino": "65555555P",
+			"asunto": "Cambio de pulsera",
+			"remitente": "Eva Martínez López",
+			"destino": "Maria José Muñoz Moreno",
+			"mensaje": "Me gustaria cambiar de pulsera, sabe como hacerlo?"
+		}
+	},
+	{
+		"notificacion": {
+			"isEmergencia": false,
+			"dniRemitente": "76895689E",
+			"fecha": "2021-01-16",
+			"registroMensajes": [],
+			"dniDestino": "65555555P",
+			"asunto": "Error de Pulsera",
+			"remitente": "Eva Martínez López",
+			"destino": "Maria José Muñoz Moreno",
+			"mensaje": "La pulsera hace pitidos extraños"
+		}
+	},
+	{
+		"notificacion": {
+			"isEmergencia": false,
+			"dniRemitente": "14514514U",
+			"fecha": "2021-01-16",
+			"registroMensajes": [],
+			"dniDestino": "33333333Q",
+			"asunto": "Consulta pulsera",
+			"remitente": "Pedro Martínez Calvo",
+			"destino": "Luis San José Pérez",
+			"mensaje": "Me gustaria saber como funciona el aviso de la pulsera, gracias"
+		}
+	},
+	{
+		"notificacion": {
+			"isEmergencia": true,
+			"dniRemitente": "86895689E",
+			"fecha": "2021-01-16",
+			"registroMensajes": [],
+			"dniDestino": "68686868H",
+			"asunto": "Oxigeno en sangre",
+			"remitente": "Cristina Alegría González",
+			"destino": "Lucía Soto Romero",
+			"mensaje": "Esta muy alto, que debería hacer?"
+		}
+	},
+	{
+		"notificacion": {
+			"isEmergencia": false,
+			"dniRemitente": "68686868H",
+			"fecha": "2021-01-16",
+			"registroMensajes": [],
+			"dniDestino": "86895689E",
+			"asunto": "Re: Oxigeno en sangre",
+			"remitente": "Lucía Soto Romero",
+			"destino": "Cristina Alegría González",
+			"mensaje": "Es normal, no se preocupe"
+		}
+	},
+	{
+		"notificacion": {
+			"isEmergencia": false,
+			"dniRemitente": "86895689E",
+			"fecha": "2021-01-16",
+			"registroMensajes": [
+				"[2021-01-16] Lucía Soto Romero:\n Es normal, no se preocupe"
+			],
+			"dniDestino": "68686868H",
+			"asunto": "Re: Oxigeno en sangre",
+			"remitente": "Cristina Alegría González",
+			"destino": "Lucía Soto Romero",
+			"mensaje": "De acuerdo, muchas gracias"
+		}
+	},
+	{
+		"notificacion": {
+			"isEmergencia": false,
+			"dniRemitente": "68686868H",
+			"fecha": "2021-01-16",
+			"registroMensajes": [
+				"[2021-01-16] Lucía Soto Romero:\n Es normal, no se preocupe",
+				"[2021-01-16] Cristina Alegría González:\n De acuerdo, muchas gracias"
+			],
+			"dniDestino": "86895689E",
+			"asunto": "Re: Oxigeno en sangre",
+			"remitente": "Lucía Soto Romero",
+			"destino": "Cristina Alegría González",
+			"mensaje": "De nada"
+		}
+	},
+	{
+		"notificacion": {
+			"isEmergencia": false,
+			"dniRemitente": "14514514U",
+			"fecha": "2021-01-17",
+			"registroMensajes": [],
+			"dniDestino": "33333333Q",
+			"asunto": "Ana enferma",
+			"remitente": "Pedro Martínez Calvo",
+			"destino": "Luis San José Pérez",
+			"mensaje": "Ana tiene un poco de diarrea y vómitos"
+		}
+	},
+	{
+		"notificacion": {
+			"isEmergencia": true,
+			"dniRemitente": "98532333S",
+			"fecha": "2021-01-17",
+			"registroMensajes": [],
+			"dniDestino": "33333333Q",
+			"asunto": "Temperatura anormal",
+			"remitente": "Francisco Tomás Mateo",
+			"destino": "Luis San José Pérez",
+			"mensaje": "Patricio tiene la temperatura baja, estoy muy preocupado"
+		}
+	},
+	{
+		"notificacion": {
+			"isEmergencia": true,
+			"dniRemitente": "33333333Q",
+			"fecha": "2021-01-17",
+			"registroMensajes": [
+				"[2021-01-17] Francisco Tomás Mateo:\n Patricio tiene la temperatura baja, estoy muy preocupado"
+			],
+			"dniDestino": "98532333S",
+			"asunto": "Re: Temperatura anormal",
+			"remitente": "Luis San José Pérez",
+			"destino": "Francisco Tomás Mateo",
+			"mensaje": "Estoy estudiando el caso de Patricio de cerca.\n\n¿Alguna anomalia más? (Vomitos, diarrea, mocos, etc)\n\nEn caso de que baje de 36º acuda al centro de salud más cercano"
+		}
+	}
+]
